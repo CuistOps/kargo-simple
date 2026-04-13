@@ -10,7 +10,7 @@ spec:
   - name: branch
     value: main
   - name: image
-    value: ghcr.io/CuistOps/guestbook
+    value: ghcr.io/cuistops/guestbook
   - name: openpr
     value: "false"
   steps:

@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/CuistOps/guestbook
+      repoURL: ghcr.io/cuistops/guestbook
       imageSelectionStrategy: SemVer
