@@ -4,7 +4,5 @@ resources:
 - ../../base
 namespace: guestbook-simple-prod
 images:
-- name: ghcr.io/CuistOps/guestbook
-  newTag: v0.0.1
 - name: ghcr.io/cuistops/guestbook
   newTag: v0.0.1
